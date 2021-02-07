@@ -4684,7 +4684,7 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #bd5d38;
+  x;
 }
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
@@ -10022,7 +10022,7 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #580701;
 }
 
 @media (min-width: 992px) {
